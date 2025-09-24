@@ -1,71 +1,71 @@
 ﻿id,data_p,tipo,categ,valor,qtd_p
-a50901,2025-09-01,FE,telefone_movel,94.78,1
-a50902,2025-09-03,VN,Restaurante,116.22,2
-a50903,2025-09-23,FN,Armaz_nuvem,28.5,1
-a50904,2025-09-18,VE,Farmacia,163.1,1
-a50905,2025-09-14,FE,Tarifa_bco,25.69,1
-a50906,2025-09-10,VN,Saques,256.3,2
-a50907,2025-09-23,FE,Internet_fixa,102.57,1
-a50908,2025-09-28,VE,Farmacia,95.61,2
-a50909,2025-09-23,FE,Internet_fixa,81.46,1
-a50910,2025-09-27,VN,Restaurante,155.36,5
-a50911,2025-09-16,FN,Assinatura_app,22.56,1
-a50912,2025-09-02,FN,Armaz_nuvem,18.18,1
-a50913,2025-09-12,FN,Assinatura_app,41.89,1
-a50914,2025-09-22,VE,Supermercado,155.86,2
-a50915,2025-09-25,FE,Internet_fixa,99.61,1
-a50916,2025-09-20,FE,Condominio,326.63,1
-a50917,2025-09-03,VN,Restaurante,88.52,5
-a50918,2025-09-08,VE,Energia,244.66,1
-a50919,2025-09-14,FN,Assinatura_app,39.68,1
-a50920,2025-09-08,FE,Internet_fixa,116.34,1
-a50921,2025-09-24,FE,Convenio,320.62,1
-a50922,2025-09-04,FN,Armaz_nuvem,17.67,1
-a50923,2025-09-02,VE,Farmacia,118.22,2
-a50924,2025-09-21,FE,Tarifa_bco,29.79,1
-a50925,2025-09-13,VN,Restaurante,146.22,3
-a50926,2025-09-14,VN,Restaurante,112.01,2
-a50927,2025-09-07,VN,Saques,252.82,3
-a50928,2025-09-09,FE,Tarifa_bco,28.63,1
-a50929,2025-09-09,VE,Farmacia,61.18,3
-a50930,2025-09-12,VE,Energia,216.28,1
-a50931,2025-09-12,FE,Tarifa_bco,25.09,1
-a50932,2025-09-04,FN,Assinatura_app,38.65,1
-a50933,2025-09-27,FN,Armaz_nuvem,20.33,1
-a50934,2025-09-03,VE,Supermercado,205.54,3
-a50935,2025-09-27,FE,Convenio,431.37,1
-a50936,2025-09-03,VE,Supermercado,268.56,4
-a50937,2025-09-07,FN,Armaz_nuvem,24.42,1
-a50938,2025-09-17,VE,Farmacia,193.15,2
-a50939,2025-09-17,VN,Compra_extra,188.34,1
-a50940,2025-09-23,FN,Assinatura_app,48.0,1
-a50941,2025-09-08,VN,Restaurante,127.45,3
-a50942,2025-09-13,VN,Compra_extra,156.87,2
-a50943,2025-09-15,FN,Assinatura_app,33.22,1
-a50944,2025-09-26,VN,Saques,113.34,2
-a50945,2025-09-21,VN,Restaurante,152.56,4
-a50946,2025-09-07,FN,Assinatura_app,21.21,1
-a50947,2025-09-14,FN,Armaz_nuvem,13.38,1
-a50948,2025-09-26,FN,Assinatura_app,23.74,1
-a50949,2025-09-17,VN,Entretendimento,76.73,3
-a50950,2025-09-14,FE,Convenio,383.9,1
-a50951,2025-09-10,VE,Supermercado,166.72,4
-a50952,2025-09-07,VE,Padaria,72.04,4
-a50953,2025-09-27,FE,Internet_fixa,85.33,1
-a50954,2025-09-12,VE,Farmacia,90.84,2
-a50955,2025-09-14,FE,Internet_fixa,107.41,1
-a50956,2025-09-28,FE,Convenio,437.16,1
-a50957,2025-09-16,VE,Energia,220.93,1
-a50958,2025-09-17,FE,telefone_movel,60.71,1
-a50959,2025-09-11,FN,Armaz_nuvem,20.09,1
-a50960,2025-09-03,VE,Padaria,21.72,4
-a50961,2025-09-05,VN,Restaurante,172.67,2
-a50962,2025-09-01,VE,Supermercado,266.87,2
-a50963,2025-09-05,FE,Convenio,452.16,1
-a50964,2025-09-03,FE,Condominio,325.24,1
-a50965,2025-09-23,FE,Convenio,405.91,1
-a50966,2025-09-24,VN,Restaurante,82.61,1
-a50967,2025-09-18,VE,Supermercado,338.94,3
-a50968,2025-09-02,FN,Assinatura_app,41.33,1
-a50969,2025-09-11,FN,Armaz_nuvem,28.93,1
-a50970,2025-09-15,VE,Supermercado,215.51,5
+a50901,2025-09-08,FE,Condominio,1164.51,1
+a50902,2025-09-15,FE,Internet fixa,90.23,1
+a50903,2025-09-12,FN,Assinatura_app,75.63,1
+a50904,2025-09-28,VN,Compra extra,274.71,2
+a50905,2025-09-15,VE,Farmacia,314.41,2
+a50906,2025-09-06,VN,Saques,202.55,3
+a50907,2025-09-05,FE,Internet fixa,102.44,1
+a50908,2025-09-06,FN,Armaz_nuvem,11.42,1
+a50909,2025-09-20,VN,Compra extra,359.49,1
+a50910,2025-09-18,FN,Assinatura_app,99.82,1
+a50911,2025-09-24,VN,Restaurante,525.49,2
+a50912,2025-09-19,VN,Restaurante,510.01,2
+a50913,2025-09-21,FN,Armaz_nuvem,15.78,1
+a50914,2025-09-22,FE,Telefone movel,100.54,1
+a50915,2025-09-03,FN,Armaz_nuvem,19.99,1
+a50916,2025-09-09,FE,Telefone movel,150.0,1
+a50917,2025-09-25,FN,Armaz_nuvem,14.44,1
+a50918,2025-09-16,FE,Condominio,706.72,1
+a50919,2025-09-19,VE,Supermercado,637.57,5
+a50920,2025-09-05,FE,Tarifa bancaria,70.67,1
+a50921,2025-09-12,VE,Energia_agua,142.21,2
+a50922,2025-09-05,FN,Assinatura_app,20.69,1
+a50923,2025-09-06,VN,Entretendimento,32.53,2
+a50924,2025-09-01,VN,Saques,463.92,1
+a50925,2025-09-09,VE,Outros pagtos,802.24,3
+a50926,2025-09-03,FN,Assinatura_app,48.13,1
+a50927,2025-09-26,VE,Padaria,98.43,6
+a50928,2025-09-10,FE,Condominio,935.7,1
+a50929,2025-09-27,VE,Extra-convenio,240.07,2
+a50930,2025-09-22,FN,Assinatura_app,92.46,1
+a50931,2025-09-08,VN,Entretendimento,99.27,4
+a50932,2025-09-03,VE,Extra-convenio,190.05,1
+a50933,2025-09-06,FE,Tarifa bancaria,41.09,1
+a50934,2025-09-19,VE,Estacionamento,30.69,4
+a50935,2025-09-07,VN,Restaurante,215.93,3
+a50936,2025-09-23,VE,Veiculares,798.85,7
+a50937,2025-09-27,VN,Compra extra,387.57,1
+a50938,2025-09-18,VN,Compra extra,585.04,2
+a50939,2025-09-12,VE,Padaria,20.37,3
+a50940,2025-09-14,FE,Internet fixa,146.87,1
+a50941,2025-09-10,FE,Telefone movel,137.68,1
+a50942,2025-09-13,VE,Gasolina,277.74,2
+a50943,2025-09-28,FN,Assinatura_app,46.0,1
+a50944,2025-09-18,VE,Supermercado,694.86,2
+a50945,2025-09-11,FE,Internet fixa,88.86,1
+a50946,2025-09-23,VN,Compra extra,283.16,2
+a50947,2025-09-01,FN,Armaz_nuvem,24.61,1
+a50948,2025-09-28,VE,Padaria,21.48,5
+a50949,2025-09-08,VN,Compra extra,379.75,1
+a50950,2025-09-15,FN,Assinatura_app,50.28,1
+a50951,2025-09-03,FE,Tarifa bancaria,53.78,1
+a50952,2025-09-28,FE,Tarifa bancaria,64.59,1
+a50953,2025-09-05,VN,Saques,548.39,3
+a50954,2025-09-08,VN,Entretendimento,114.34,4
+a50955,2025-09-12,VN,Entretendimento,82.45,1
+a50956,2025-09-26,FE,Telefone movel,92.72,1
+a50957,2025-09-11,VE,Gasolina,473.29,2
+a50958,2025-09-05,FN,Assinatura_app,59.94,1
+a50959,2025-09-20,FE,Condominio,811.41,1
+a50960,2025-09-26,VE,Outros pagtos,873.44,3
+a50961,2025-09-01,FN,Assinatura_app,34.69,1
+a50962,2025-09-13,VE,Padaria,128.19,4
+a50963,2025-09-23,FN,Assinatura_app,44.6,1
+a50964,2025-09-17,VN,Saques,495.69,3
+a50965,2025-09-15,FN,Armaz_nuvem,21.32,1
+a50966,2025-09-01,VE,Energia_agua,269.55,1
+a50967,2025-09-11,VE,Supermercado,458.46,7
+a50968,2025-09-09,VN,Saques,298.42,2
+a50969,2025-09-06,VE,Padaria,30.5,4
+a50970,2025-09-19,FN,Armaz_nuvem,15.97,1
